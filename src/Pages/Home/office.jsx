@@ -22,7 +22,7 @@ const Office = () => {
                         <div 
                             className='duration-300 text-center mx-auto'
                         >
-                            <h1 className='text-lg lg:text-xl font-semibold justify-center md:py-5 py-3 text-[#444444]'>
+                            <h1 className='text-lg lg:text-xl font-light justify-center md:py-5 py-3 text-[#444444]'>
                                 United Arab Emirates
                             </h1>
                             <p
@@ -38,7 +38,7 @@ const Office = () => {
                         <div 
                             className='duration-300 text-center mx-auto'
                         >
-                            <h1 className='text-lg lg:text-xl font-semibold justify-center md:py-5 py-3 text-[#444444]'>
+                            <h1 className='text-lg lg:text-xl font-light justify-center md:py-5 py-3 text-[#444444]'>
                                 Kingdom of Saudi Arabia
                             </h1>
                             <p
@@ -54,7 +54,7 @@ const Office = () => {
                         <div 
                             className='duration-300 text-center mx-auto'
                         >
-                            <h1 className='text-lg lg:text-xl font-semibold justify-center md:py-5 py-3 text-[#444444]'>
+                            <h1 className='text-lg lg:text-xl font-light justify-center md:py-5 py-3 text-[#444444]'>
                                 United Kingdom London
                             </h1>
                             <p
@@ -70,7 +70,7 @@ const Office = () => {
                         <div 
                             className='duration-300 text-center mx-auto'
                         >
-                            <h1 className='text-lg lg:text-xl font-semibold justify-center md:py-5 py-3 text-[#444444]'>
+                            <h1 className='text-lg lg:text-xl font-light justify-center md:py-5 py-3 text-[#444444]'>
                                 Singapore
                             </h1>
                             <p
@@ -86,7 +86,7 @@ const Office = () => {
                         <div 
                             className='duration-300 text-center mx-auto'
                         >
-                            <h1 className='text-lg lg:text-xl font-semibold justify-center md:py-5 py-3 text-[#444444]'>
+                            <h1 className='text-lg lg:text-xl font-light justify-center md:py-5 py-3 text-[#444444]'>
                                 India
                             </h1>
                             <p
